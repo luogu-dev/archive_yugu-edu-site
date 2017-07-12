@@ -1,0 +1,68 @@
+#yugu-jumbotron {
+    margin-top: 45px;
+    background: url(background.png);
+    background-position-y: 200px;
+    color: white;
+    text-align: center;
+}
+
+#yugu-jumbotron p {
+    line-height: 1.6em;
+}
+
+#about-us .row {
+    margin-bottom: 30px;
+}
+
+#about-us p {
+    font-size: 1.5em;
+    line-height: 1.6em;
+}
+
+@media (max-width: 991px) {
+    #about-us img {
+        display: none;
+    }
+}
+
+#oi-summer-camp {
+    background: #e9eaec;
+    text-align: center;
+}
+
+#oi-summer-camp h2 {
+    margin: 20px;
+}
+
+#oi-summer-camp div.camp-features {
+    padding: 40px;
+}
+
+#oi-summer-camp div.camp-features img {
+    width: 120px;
+    height: 120px;
+}
+
+#oi-summer-camp #camp-notice {
+    text-align: left;
+}
+
+#oi-summer-camp #camp-notice p {
+    font-size: 1.2em;
+}
+
+#top-navbar {
+    background-color: #339933;
+}
+
+#top-navbar a:not(:hover) {
+    color:white;
+}
+
+#contact-us p {
+    font-size: 1.4em;
+}
+
+.footer {
+    background: #e9eaec;
+}
