@@ -19,9 +19,17 @@
     line-height: 1.6em;
 }
 
+#logo {
+    height: 130%;
+}
+
 @media (max-width: 991px) {
     #about-us img {
         display: none;
+    }
+
+    #logo {
+        height: 100%;
     }
 }
 
