@@ -1,6 +1,6 @@
 #yugu-jumbotron {
     margin-top: 45px;
-    background: url(background.png);
+    background: url(background.png) #161616;
     background-position-y: 200px;
     color: white;
     text-align: center;
